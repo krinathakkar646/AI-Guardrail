@@ -16,6 +16,6 @@
 This allows you to run the `guardrail` command from anywhere in your terminal.
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/ai-guardrail.git](https://github.com/YOUR_USERNAME/ai-guardrail.git)
+git clone [https://github.com/krinathakkar646/ai-guardrail.git](https://github.com/krinathakkar646/ai-guardrail.git)
 cd ai-guardrail
 pip install .
